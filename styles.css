@@ -1,0 +1,38 @@
+body{
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+   
+}
+.header-content{
+    text-align: center;
+}
+dev{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+button{
+    background: red;
+    background-color: blueviolet;
+    border:none;
+    padding: 20px 40px;
+}
+/* .cats{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%
+}
+.cat_image{
+    width: 40%;
+} */
+img{
+    max-width: 700px;
+    height:30rem;
+}
